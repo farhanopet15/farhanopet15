@@ -44,5 +44,5 @@ Eager to continue growing my skills and contributing to impactful projects.
 
 ---
 <div align="center">
-*I’m excited to continue learning and growing in the web development field. Always open to opportunities to collaborate and improve my skills.*
+I’m excited to continue learning and growing in the web development field. Always open to opportunities to collaborate and improve my skills.
 </div>
