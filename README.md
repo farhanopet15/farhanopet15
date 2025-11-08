@@ -1,17 +1,11 @@
+<div align="center">
+
 # 👋 Hi, I'm Ahmad Farhan Walidain
 
 I’m a passionate full-stack developer, focused on building high-quality web applications.  
 I prioritize **clean code**, **scalable APIs**, and **intuitive design** to create meaningful digital solutions.
 
 Eager to continue growing my skills and contributing to impactful projects.
-
----
-
-## What I Do
-- **Full-stack Development** with **TypeScript**, **React/Next.js**, **Express.js**
-- **Database Management** using **PostgreSQL** and **Supabase**
-- Building responsive **UIs** with **Tailwind CSS** and **shadcn/ui**
-- Focused on **writing clean, maintainable code** and constantly **improving** with every project
 
 ---
 
@@ -30,6 +24,16 @@ Eager to continue growing my skills and contributing to impactful projects.
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+</div>
+
+---
+
+## What I Do
+- **Full-stack Development** with **TypeScript**, **React/Next.js**, **Express.js**
+- **Database Management** using **PostgreSQL** and **Supabase**
+- Building responsive **UIs** with **Tailwind CSS** and **shadcn/ui**
+- Focused on **writing clean, maintainable code** and constantly **improving** with every project
 
 ---
 
