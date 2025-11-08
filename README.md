@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmad Farhan Walidain
+# Ahmad Farhan Walidain
 
 I’m a passionate full-stack developer, focused on building high-quality web applications.  
 I prioritize **clean code**, **scalable APIs**, and **intuitive design** to create meaningful digital solutions.
@@ -45,3 +45,4 @@ Eager to continue growing my skills and contributing to impactful projects.
 ---
 
 *I’m excited to continue learning and growing in the web development field. Always open to opportunities to collaborate and improve my skills.*
+
