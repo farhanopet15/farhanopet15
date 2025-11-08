@@ -18,7 +18,7 @@ Eager to continue growing my skills and contributing to impactful projects.
 ## Technologies I'm Exploring
 - **Frontend**: [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://github.com/shadcn/ui)
 - **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), [Prisma](https://www.prisma.io/)
-- **Databases**: [PostgreSQL](https://www.postgresql.org/), [Supabase](https://supabase.com/), [Redis](https://redis.io/)
+- **Databases**: [PostgreSQL](https://www.postgresql.org/), [Supabase](https://supabase.com/)
 - **Languages**: [TypeScript](https://www.typescriptlang.org/), [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
@@ -31,4 +31,5 @@ Eager to continue growing my skills and contributing to impactful projects.
 ---
 
 *I’m excited to continue learning and growing in the web development field. Always open to opportunities to collaborate and improve my skills.*
+
 
