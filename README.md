@@ -43,6 +43,6 @@ Eager to continue growing my skills and contributing to impactful projects.
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/farhanopet15)
 
 ---
-
+<div align="center">
 *I’m excited to continue learning and growing in the web development field. Always open to opportunities to collaborate and improve my skills.*
-
+</div>
