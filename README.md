@@ -62,7 +62,7 @@ Currently expanding my expertise in **Java Backend**, **Quarkus**, and modern we
 
 Production-ready RESTful API built with **Java 21**, **Quarkus 3**, **PostgreSQL**, **Flyway**, **Docker**, **Swagger**, **JWT Authentication**, **Pagination**, **Search**, **Sorting**, **Unit Testing**, and **Integration Testing**.
 
-🔗 https://github.com/farhanopet15/quarkus-crud-backend
+🔗 https://github.com/farhanopet15/quarkus-crud
 
 ---
 
